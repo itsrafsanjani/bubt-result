@@ -8,9 +8,9 @@ $intake_no = $_POST["intake_no"];
 <div class="section no-pad-bot" id="index-banner">
     <div class="container">
         <br><br>
-        <h3 class="header center blue-text text-lighten-1"><?php echo $program_name; ?></h3>
+        <h3 class="header center blue-text text-lighten-1"><?= $program_name; ?></h3>
         <div class="row center">
-            <h4 class="header col s12 light">Inatake no: <?php echo $intake_no; ?></h4>
+            <h4 class="header col s12 light">Inatake no: <?= $intake_no; ?></h4>
             <h6 class="header col s12 light">Use <b>CTRL + F</b> to Search..</h6>
         </div>
         <div class="row center">
