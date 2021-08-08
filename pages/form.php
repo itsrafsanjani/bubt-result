@@ -2,7 +2,7 @@
     <div class="container">
         <br /><br />
         <div class="row">
-            <div class="col s12 l4 offset-l4">
+            <div class="col s12 m6 l5 offset-m3 offset-l3">
                 <div class="card">
                     <div class="card-content">
                         <h4 class="card-title center-align">Result</h4>
